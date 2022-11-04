@@ -275,9 +275,7 @@ header nav ul li span.seleccionado{
 }
 
 /*SECION S K I L L S*/
-#skills{
-    background-color:rgb(240, 240, 240);
-}
+
 #skills .contenido{
     color: rgb(0, 0, 0);
     padding: 150px 30px;
